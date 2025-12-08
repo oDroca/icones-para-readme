@@ -1,3 +1,21 @@
-<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48.000000" height="48.000000" fill="none" customFrame="#000000">
-	<path id="Vector 11" d="M7.95349 17.0465C11.7938 17.0465 14.907 20.1597 14.907 24C14.907 27.8403 11.7938 30.9535 7.95349 30.9535C4.11319 30.9535 1 27.8403 1 24C1 20.1597 4.11319 17.0465 7.95349 17.0465ZM40.0465 1C43.8868 1 47 4.11319 47 7.95349C47 11.7938 43.8868 14.907 40.0465 14.907C36.2062 14.907 33.093 11.7938 33.093 7.95349C33.093 4.11319 36.2062 1 40.0465 1ZM40.0465 17.0465C43.8868 17.0465 47 20.1597 47 24C47 27.8403 43.8868 30.9535 40.0465 30.9535C36.2062 30.9535 33.093 27.8403 33.093 24C33.093 20.1597 36.2062 17.0465 40.0465 17.0465ZM40.0465 33.093C43.8868 33.093 47 36.2062 47 40.0465C47 43.8868 43.8868 47 40.0465 47C36.2062 47 33.093 43.8868 33.093 40.0465C33.093 36.2062 36.2062 33.093 40.0465 33.093ZM33.1139 24.5432L13.8372 24.5349M34.1628 11.661L14.907 24.5432M34.1628 36.3391L14.8939 24.5349" fill-rule="evenodd" stroke="rgb(255,255,255)" stroke-width="2" />
+<svg viewBox="0 0 133 145" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="133.000000" height="145.000000" fill="none" customFrame="#000000">
+	<defs>
+		<g id="pixso_custom_effect_0">
+			<effect x="0.000000" y="4.000000" visibility="visible" fill="rgb(0,0,0)" fill-opacity="0.25" effectType="dropShadow" stdDeviation="4" radius="0" />
+		</g>
+		<filter id="filter_0" width="133.000000" height="145.000000" x="0.000000" y="0.000000" filterUnits="userSpaceOnUse" customEffect="url(#pixso_custom_effect_0)" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix" />
+			<feColorMatrix result="hardAlpha" in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0 " />
+			<feOffset dx="0.000000" dy="4.000000" in="hardAlpha" />
+			<feGaussianBlur stdDeviation="1.33333337" />
+			<feComposite k2="-1" k3="1" in2="hardAlpha" operator="out" />
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0 " />
+			<feBlend result="effect_dropShadow_1" in2="BackgroundImageFix" mode="normal" />
+			<feBlend result="shape" in="SourceGraphic" in2="effect_dropShadow_1" mode="normal" />
+		</filter>
+	</defs>
+	<g id="Group 1" filter="url(#filter_0)">
+		<path id="Vector 11" d="M49.6512 108C53.3245 108 56.3023 110.91 56.3023 114.5C56.3023 118.09 53.3245 121 49.6512 121C45.9778 121 43 118.09 43 114.5C43 110.91 45.9778 108 49.6512 108ZM80.3488 93C84.0222 93 87 95.9102 87 99.5C87 103.09 84.0222 106 80.3488 106C76.6755 106 73.6977 103.09 73.6977 99.5C73.6977 95.9102 76.6755 93 80.3488 93ZM80.3488 108C84.0222 108 87 110.91 87 114.5C87 118.09 84.0222 121 80.3488 121C76.6755 121 73.6977 118.09 73.6977 114.5C73.6977 110.91 76.6755 108 80.3488 108ZM80.3488 123C84.0222 123 87 125.91 87 129.5C87 133.09 84.0222 136 80.3488 136C76.6755 136 73.6977 133.09 73.6977 129.5C73.6977 125.91 76.6755 123 80.3488 123ZM73.7177 115.008L55.2791 115M74.7209 102.966L56.3023 115.008M74.7209 126.034L56.2898 115" fill-rule="evenodd" stroke="rgb(0,0,0)" stroke-width="2" />
+		<rect id="Rectangle 3" width="133.000000" height="136.000000" x="0.000000" y="0.000000" fill="rgb(196,196,196)" fill-opacity="0" />
+	</g>
 </svg>
